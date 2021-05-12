@@ -1,4 +1,4 @@
-Mô tả:
+1. Mô tả:
   - Tìm hiểu về SDL 2.0
   - Tìm hiểu lập trình hướng đối tượng
   - Kĩ thuật Tile Map + FPS
@@ -7,3 +7,5 @@ Mô tả:
   - Tạo các menu: Bắt đầu, kết thúc, cài đặt, hướng dẫn,...
   - Sử dụng SDL_ttf, SDL_mixer để cài font chữ và âm thanh trong game
   - ...
+2. Mức điểm tự đánh giá: 8.5 - 9.0
+3. Nguồn tham khảo: https://phattrienphanmem123az.com/lap-trinh-game-c-p2 (kĩ thuật lập trình hướng đối tượng, tile map, fps, 1 số hình ảnh: nhân vật, quái)
